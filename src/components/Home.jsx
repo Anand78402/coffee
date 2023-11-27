@@ -14,7 +14,7 @@ const Home = () => {
           the morning
         </p>
         <div className="flex flex-row gap-6">
-          <Button tittle="ADD TO CARD" />
+          <Button tittle="ADD TO CART" />
           <Button tittle="MORE MENU" />
         </div>
       </div>
